@@ -53,19 +53,5 @@ If you might be debugging using Microsoft Visual Studio, you may find the debugg
 visualisation file at https://github.com/ned14/outcome/raw/master/include/outcome/outcome.natvis
 useful to include into your build.
 
-## Commits and tags in this git repository can be verified using:
-<pre>
------BEGIN PGP PUBLIC KEY BLOCK-----
-Version: GnuPG v2
-
-mDMEVvMacRYJKwYBBAHaRw8BAQdAp+Qn6djfxWQYtAEvDmv4feVmGALEQH/pYpBC
-llaXNQe0WE5pYWxsIERvdWdsYXMgKHMgW3VuZGVyc2NvcmVdIHNvdXJjZWZvcmdl
-IHthdH0gbmVkcHJvZCBbZG90XSBjb20pIDxzcGFtdHJhcEBuZWRwcm9kLmNvbT6I
-eQQTFggAIQUCVvMacQIbAwULCQgHAgYVCAkKCwIEFgIDAQIeAQIXgAAKCRCELDV4
-Zvkgx4vwAP9gxeQUsp7ARMFGxfbR0xPf6fRbH+miMUg2e7rYNuHtLQD9EUoR32We
-V8SjvX4r/deKniWctvCi5JccgfUwXkVzFAk=
-=puFk
------END PGP PUBLIC KEY BLOCK-----
-</pre>
 
 </center>
